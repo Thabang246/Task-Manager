@@ -1,4 +1,4 @@
-# Capstone-Project-II
+# Task Manager
 This Program is designed to help small businesses manage tasks assigned to each member of the team.
 The program begins with a Login section where the user should be prompted to enter a username and password.
 
